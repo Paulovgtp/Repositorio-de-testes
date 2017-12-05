@@ -1,2 +1,2 @@
-# nome-epositorio
-Descrição do repositório
+# Pythonicos
+Repositório de teste do curso pythonicos
