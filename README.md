@@ -1,2 +1,3 @@
-# Pythonicos
-Repositório de teste do curso pythonicos
+# Seja muito bem-vindo ao meu repositóriode testes!
+
+Repositório de teste para todos os cursos
